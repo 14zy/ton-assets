@@ -64,6 +64,22 @@
   "symbol": "MEGA"
  },
  {
+  "address": "0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0",
+  "coingecko": "https://www.coingecko.com/en/coins/resistance-dog",
+  "description": "Pavel Durov Founder Of The Digital Resitance Dog - $REDO is a meme coin on the TON Blockchain. https://t.me/RedoTON",
+  "image": "https://raw.githubusercontent.com/Resistance-Dog/resistance-dog/main/resistance-dog.webp",
+  "max_supply": 100000000,
+  "name": "Resistance Dog",
+  "social": [
+   "https://t.me/redoton",
+   "https://twitter.com/redoonton"
+  ],
+  "symbol": "REDO",
+  "websites": [
+   "https://www.redoton.com/"
+  ]
+ },
+ {
   "address": "0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97",
   "name": "LP Token for AMBR-oUSDC",
   "symbol": "AMBR-oUSDC LP"
@@ -184,6 +200,21 @@
    "https://t.me/tenerechat"
   ],
   "symbol": "Tnr"
+ },
+ {
+  "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
+  "description": "Operating startup of the mining company",
+  "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
+  "name": "Ton Miner",
+  "social": [
+   "https://t.me/bitcon24",
+   "https://t.me/+qFxroAmyXGIzY2Uy"
+  ],
+  "symbol": "1RUS",
+  "websites": [
+   "https://1rus.com",
+   "https://www.coingecko.com/en/coins/tonminer"
+  ]
  },
  {
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
@@ -667,29 +698,19 @@
   "symbol": "SHIP"
  },
  {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
+  "address": "0:b0797499697e64e713ad5cb6c681f17c158e836e0eab3623eb77d7747fffa40d",
+  "name": "RubeTON",
+  "symbol": "RUBETON"
  },
  {
-  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
-  "name": "GAGARIN",
-  "symbol": "GGR"
+  "address": "0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b",
+  "name": "Web3 TON Token",
+  "symbol": "WEB3"
  },
  {
   "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
   "name": "PROTON JETTON",
   "symbol": "PROTON"
- },
- {
-  "address": "0:795a3a3bc9775a07bd32068376604bfc8953e301d30e6dffc3ab8d042cb68f96",
-  "name": "Ton Miner",
-  "symbol": "1RUS"
- },
- {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
  },
  {
   "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
@@ -700,6 +721,21 @@
   "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
   "name": "Wrapped NANO",
   "symbol": "jNANO"
+ },
+ {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
+  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
+  "name": "GAGARIN",
+  "symbol": "GGR"
+ },
+ {
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
